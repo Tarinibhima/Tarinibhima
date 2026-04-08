@@ -30,22 +30,19 @@
 
 ## 📊 my progress
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<table>
+  <tr>
+    <!-- LEFT: YOUR STATS (UNCHANGED SIZE) -->
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=TariniBhima&theme=tokyonight&hide_border=true" />
+    </td>
 
-  <!-- STATS (LEFT - BIGGER) -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=TariniBhima&theme=tokyonight&hide_border=true"
-    width="600"
-  />
-
-  <!-- GIF (RIGHT) -->
-  <img 
-    src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif?raw=true"
-    width="200"
-  />
-
-</div>
-
+    <!-- RIGHT: GIF -->
+    <td>
+      <img src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif?raw=true" width="250"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🌸 little reminder
