@@ -1,6 +1,6 @@
 # 🌸 hey, i'm tarini 👋
 
-<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JqY3JvN2E0cTV5Z3F2NnV0bGg3eWR2b2h0M3g3eWl4c3M5d2p4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8gRPuscy5MQ9H3VtzX/giphy.gif" width="260"/>
 <p align="center">
   <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="300"/>
 </p>
