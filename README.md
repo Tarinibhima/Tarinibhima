@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/dsa-logic%20building-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/openai-AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/json-data-black?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
 <br clear="right"/>
