@@ -30,13 +30,13 @@
 
 ## 📊 my progress
 
-## 📊 my progress
-
-<img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif?raw=true" width="220"/>
+<img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif?raw=true" height="240"/>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Tarinibhima&show_icons=true&theme=tokyonight)
 
 ![streak](https://streak-stats.demolab.com/?user=Tarinibhima&theme=tokyonight)
+
+<br clear="right"/>
 ---
 
 ## 🌸 little reminder
