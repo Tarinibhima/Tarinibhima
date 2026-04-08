@@ -30,14 +30,18 @@
 
 ## 📊 my progress
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tarinibhima&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=Tarinibhima&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif?raw=true" height="150"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Tarinibhima&show_icons=true&theme=tokyonight" />
+      <br/>
+      <img src="https://streak-stats.demolab.com/?user=Tarinibhima&theme=tokyonight"/>
+    </td>
+    <td>
+      <img src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif?raw=true" width="220"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
