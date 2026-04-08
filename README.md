@@ -18,8 +18,10 @@
 <h3>🛠 tools i'm using</h3>
 
 <div>
-  <!-- push GIF down a bit -->
-  <img align="right" src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif" width="270" style="margin-top: 20px;"/>
+  <!-- invisible spacer to push GIF down -->
+  <img align="right" src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif" width="260"/>
+
+  <br><br><br>
 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
