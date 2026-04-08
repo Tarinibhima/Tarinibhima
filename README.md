@@ -24,6 +24,9 @@
 ---
 
 ## 📊 my progress
+<p align="center">
+  <img src="https://github.com/Amchuz/Amchuz/blob/master/rolling.gif?raw=true" width="300"/>
+</p>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Tarinibhima&show_icons=true&theme=tokyonight)
 ![streak](https://streak-stats.demolab.com/?user=Tarinibhima&theme=tokyonight)
