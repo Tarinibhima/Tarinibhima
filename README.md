@@ -1,4 +1,4 @@
-# 🌸 hey, i'm tarini 👋
+# 🌸 hey, i'm Tarini 👋
 
 <p align="center">
   <img src="https://github.com/Amchuz/Amchuz/blob/master/rolling.gif?raw=true" width="300"/>
@@ -30,19 +30,20 @@
 
 ## 📊 my progress
 
-<table>
+<table align="center">
   <tr>
-    <!-- LEFT: YOUR STATS (UNCHANGED SIZE) -->
+    <!-- LEFT: STATS -->
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=TariniBhima&theme=tokyonight&hide_border=true" />
     </td>
 
     <!-- RIGHT: GIF -->
-    <td>
+    <td style="padding-left: 20px;">
       <img src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif?raw=true" width="250"/>
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🌸 little reminder
