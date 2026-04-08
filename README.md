@@ -30,19 +30,13 @@
 
 ## 📊 my progress
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Tarinibhima&show_icons=true&theme=tokyonight" />
-      <br/>
-      <img src="https://streak-stats.demolab.com/?user=Tarinibhima&theme=tokyonight"/>
-    </td>
-    <td>
-      <img src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif?raw=true" width="220"/>
-    </td>
-  </tr>
-</table>
+## 📊 my progress
 
+<img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif?raw=true" width="220"/>
+
+![stats](https://github-readme-stats.vercel.app/api?username=Tarinibhima&show_icons=true&theme=tokyonight)
+
+![streak](https://streak-stats.demolab.com/?user=Tarinibhima&theme=tokyonight)
 ---
 
 ## 🌸 little reminder
