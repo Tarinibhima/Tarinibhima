@@ -30,7 +30,7 @@
 
 ## 📊 my progress
 
-<table align="center" style="border: none;">
+<table align="center" style="border-collapse: collapse;">
   <tr>
     <!-- STATS -->
     <td style="border: none;">
