@@ -5,7 +5,7 @@
 </p>
 
 💛 learning to code, one step at a time  
-💻 python beginner  
+💻 Python Developer  
 🌱 figuring things out as i go  
 
 ---
@@ -26,6 +26,10 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/dsa-logic%20building-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/openai-AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/json-data-black?style=for-the-badge&logo=json&logoColor=white"/>
 </p>
 
 <br clear="right"/>
