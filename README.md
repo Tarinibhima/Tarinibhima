@@ -32,13 +32,10 @@
 
 <table align="center">
   <tr>
-    <!-- LEFT: STATS -->
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=TariniBhima&theme=tokyonight&hide_border=true" />
     </td>
-
-    <!-- RIGHT: GIF -->
-    <td style="padding-left: 20px;">
+    <td style="padding-left: 20px; vertical-align: middle;">
       <img src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif?raw=true" width="250"/>
     </td>
   </tr>
