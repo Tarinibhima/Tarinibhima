@@ -35,11 +35,11 @@
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=TariniBhima&theme=tokyonight&hide_border=true" />
     </td>
+    </table>
     <td style="padding-left: 20px; vertical-align: middle;">
       <img src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif?raw=true" width="250"/>
     </td>
   </tr>
-</table>
 
 ---
 
