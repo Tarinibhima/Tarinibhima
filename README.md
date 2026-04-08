@@ -30,13 +30,22 @@
 
 ## 📊 my progress
 
-<img align="right" src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif?raw=true" height="240"/>
+<div style="display: flex; align-items: center; gap: 20px;">
 
-![stats](https://github-readme-stats.vercel.app/api?username=Tarinibhima&show_icons=true&theme=tokyonight)
+  <!-- STATS (LEFT - BIGGER) -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=TariniBhima&theme=tokyonight&hide_border=true"
+    width="600"
+  />
 
-![streak](https://streak-stats.demolab.com/?user=Tarinibhima&theme=tokyonight)
+  <!-- GIF (RIGHT) -->
+  <img 
+    src="https://github.com/Amchuz/Amchuz/blob/master/mess.gif?raw=true"
+    width="200"
+  />
 
-<br clear="right"/>
+</div>
+
 ---
 
 ## 🌸 little reminder
