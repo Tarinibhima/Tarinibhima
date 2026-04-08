@@ -15,12 +15,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FFB6C1&lines=learning+python...;building+projects...;trying+again+and+again...;becoming+better+everyday..." />
 
 ---
-<h3>🛠 tools i'm using</h3>
+<h2>🛠 tools i'm using</h2>
 
 <p>
   <img align="right"
        src="https://i.pinimg.com/originals/e8/4e/db/e84edb279472c7ab49e97ec276d4ffda.gif"
-       width="560" />
+       width="460" />
 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
