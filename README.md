@@ -1,4 +1,4 @@
-# 🌸 hey, i'm Tarini 👋
+## 🌸 hey, i'm Tarini 👋
 
 <p align="center">
   <img src="https://github.com/Amchuz/Amchuz/blob/master/rolling.gif?raw=true" width="300"/>
