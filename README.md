@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ current arc
+## ✨ current arcc
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FFB6C1&lines=learning+python...;building+projects...;trying+again+and+again...;becoming+better+everyday..." />
 
